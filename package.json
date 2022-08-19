@@ -1,0 +1,25 @@
+{
+  "name": "m310851010",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/java-8-orange?style=for-the-badge&logo=java&logoColor=orange)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m310851010/m310851010.git"
+  },
+  "keywords": [
+    "home"
+  ],
+  "author": "mdc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m310851010/m310851010/issues"
+  },
+  "homepage": "https://github.com/m310851010/m310851010#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
