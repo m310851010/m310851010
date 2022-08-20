@@ -31,3 +31,7 @@ jobs:
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.API_KEY_GITHUB_TOKEN }}
+      - name: update readme
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.API_KEY_GITHUB_TOKEN }}
